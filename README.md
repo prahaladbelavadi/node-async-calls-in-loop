@@ -22,3 +22,9 @@ How ?
 - https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/
 - https://www.javascripttutorial.net/es6/javascript-promise-all/
 - https://www.geeksforgeeks.org/javascript-promise-all-method/
+
+
+
+##### Notes;
+- To view requests made: https://hookbin.com/eKg6ZOwlNPteYYRdXjPm
+- Endpoint to make requests at: https://hookb.in/eKg6ZOwlNPteYYRdXjPm
